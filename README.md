@@ -82,7 +82,7 @@ A computer vision-based system that detects, counts, and analyzes people in vide
 
 ## 📸 Sample Output
 
-*(Add screenshots or video clips of the detection with bounding boxes and alerts)*
+
 ![image](https://github.com/user-attachments/assets/b167ca66-d0b9-418a-917f-0479c6d4641c)
 
 
